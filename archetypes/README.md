@@ -11,7 +11,7 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 | Innocent | Assign owner | Add page link |
 | Everyperson / Everyman | Assign owner | Add page link |
 | Hero | Assign owner | Add page link |
-| Caregiver | Assign owner | Add page link |
+| Caregiver | Ghazia Javed | [Caregiver](caregiver.md) |
 | Explorer | Assign owner | Add page link |
 | Rebel / Outlaw | Assign owner | Add page link |
 | Lover | Assign owner | Add page link |
