@@ -8,32 +8,33 @@ I am an Information Systems student at NJIT with an interest in technology, busi
 
 ## My archetype and design choices
 
-Chosen archetype: To be completed.
+My assigned archetypes were Caregiver, Ruler, and Creator. For these archetypes, I created modernist and postmodernist hero-section designs using the design styles I researched.
 
-AI's suggestion and whether I agree (with a reason): To be completed.
+The three design styles I researched were International Style, Postmodern Eclecticism, and Deconstructivism. I learned how different visual elements such as layout, typography, imagery, and composition can communicate different ideas and feelings.
 
-Imagery, color, and type cues: To be completed based on my design research.
+For each of my three archetypes, I created two hero designs: one using a modernist approach and one using a postmodernist approach. The designs included an image, headline, and call-to-action while applying the characteristics of the archetype and design style.
 
-Headline: To be completed.
-
-CTA and destination: To be completed.
-
-Persuasion principle and why it fits: To be completed.
+My persuasion principle was Unity. Unity focuses on shared identity, belonging, and the feeling of “we.” I learned how it can be used in communication and design to make an audience feel connected through shared interests, experiences, values, or goals.
 
 ## Issues I completed
 
-No issues are complete yet. I will add links and contribution notes as I complete my assigned work.
+- **[Issue #6 – Complete Caregiver, Ruler, Creator, design styles, and Unity contributions](https://github.com/rachr23/archetype-design-persuasion/issues/6):** Completed my assigned archetype pages, design-style research, hero designs, and Unity persuasion-principle work.
 
 ## My work and reviews
 
-- My three archetype packages: To be added as I complete my work.
-- Selected authored pull requests: To be added as I complete my work.
-- Selected reviewed pull requests: To be added as I participate in reviews.
+- Created archetype pages for Caregiver, Ruler, and Creator.
+- Researched International Style, Postmodern Eclecticism, and Deconstructivism.
+- Created modernist and postmodernist hero designs for Caregiver, Ruler, and Creator.
+- Completed the Unity persuasion-principle research page.
+- Added sources, explanations, and credits for my work.
+- Submitted my completed work through a pull request for the team repository.
 
-## What I have learned so far
+## What I learned
 
-So far, I am learning how design styles, branding, and visual choices can affect the way a message is communicated. I am also learning how to research design history, document my work, and collaborate with a team using GitHub. As I complete more of the project, I will update this reflection with specific examples from my research and design work.
+Through this project, I learned how archetypes, design styles, and persuasion principles can work together to communicate a message. Researching International Style, Postmodern Eclecticism, and Deconstructivism helped me understand how typography, layout, imagery, and other visual choices can create different experiences. I also learned how the Unity persuasion principle can connect an audience through shared identity and belonging.
+
+I also gained more experience using GitHub to organize files, make commits, work with a forked repository, create pull requests, and document my contributions as part of a team project.
 
 ## Collaborator credits
 
-To be added as I collaborate with my team members and contribute to the project.
+This project was completed as part of a team. My contributions focused on Caregiver, Ruler, and Creator archetypes, International Style, Postmodern Eclecticism, Deconstructivism, the related hero designs, and the Unity persuasion principle.
